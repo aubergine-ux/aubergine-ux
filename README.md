@@ -1,6 +1,6 @@
 <h1 align="center">Aubergine-UX</h1><br>
 <div align=center>
-<img src="https://komarev.com/ghpvc/?username=aubergine-ux&color=blueviolet" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=aubergine-ux&color=7700bd" alt="profile views" />
 <img src="https://img.shields.io/badge/Email-mail@armd.one-purple" alt="badge" />
 <img src="https://img.shields.io/badge/Website-https://aubergineux.com/-f47fff" alt="badge" />
 </div><br>
