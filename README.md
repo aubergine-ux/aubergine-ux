@@ -20,6 +20,9 @@
 <br>
 <br>
 
-![Ruby's Stats](https://github-readme-stats.vercel.app/api?username=aubergine-ux&show_icons=true&theme=radical&count_private=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aubergine-ux&theme=radical" width="500"/>
+<br>
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aubergine-ux&theme=radical&layout=compact&hide_border=true)
 </div>
 
