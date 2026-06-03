@@ -17,4 +17,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="40" width="40" alt="photoshop" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" height="40" width="40" alt="premierepro" />
+<br>
+<br>
+
+![Ruby's Stats](https://github-readme-stats.vercel.app/api?username=aubergine-ux&show_icons=true&theme=radical&count_private=true)
 </div>
+
