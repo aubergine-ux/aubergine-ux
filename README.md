@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Website-aubergineux.com-f47fff" alt="badge" />
 </div><br>
 <p align="center">I'm Ruby, I push pixels around and i hate the government. 
-<p align="center">I'm Learning Javascript, React, & C++ 
+<p align="center">I'm Learning Javascript & C++ 
 </p><br>
 <div align=center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript" />
