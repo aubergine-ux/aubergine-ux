@@ -29,6 +29,7 @@
 | :--- | :--- | :--- |
 | [**Crimstone**](https://github.com/aubergine-ux/Crimstone-Bot) | A multipurpose Discord bot (JS, Discord.js) | 🟢 Active |
 | [**Aub Suite**](https://github.com/aubergine-ux/Aub-Suite) | A dark-themed browser utility dashboard | 🟢 Active |
+| [**Aub Dashboard**](https://github.com/aubergine-ux/Aub-Dashboard) | A responsive admin dashboard  | 🟢 Active |
 | [**NYCleanAir**](https://github.com/aubergine-ux/NYCleanAir) | Air quality dashboard (Open-Meteo API + Chart.js) | ✅ Done |
 | [**K-Chat**](https://github.com/aubergine-ux/K-Chat) | Real-time chat app with WebSockets | ✅ Done |
 | [**Raven**](https://github.com/aubergine-ux/Raven) | Free Minecraft Server Website Template | ✅ Done |
