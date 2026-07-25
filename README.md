@@ -35,7 +35,7 @@
 | [**Raven**](https://github.com/aubergine-ux/Raven) | Free Minecraft Server Website Template | ✅ Done |
 | [**Minecraft Server Website**](https://github.com/aubergine-ux/Minecraft-Server-Website) | Free Modern Minecraft Server Website Template | ✅ Done |
 | [**Discord Bot Landing Page**](https://github.com/aubergine-ux/Discord-Bot-Landing-Page) | Free HTML/CSS bot landing template | 🟢 Active |
-| [**Ghast-Clicker**](https://github.com/aubergine-ux/Ghast-Clicker) | An incremental / clicker game | 📋 Backlog |
+| [**Ghast-Clicker**](https://github.com/aubergine-ux/Ghast-Clicker) | An Humanized Autoclicker | 📋 Backlog |
 | [**Aub Maintenance Log**](https://github.com/aubergine-ux/Aub-Maintenance-Log) | Vehicle Maintenance Tracker | 📋 Backlog |
 | Open-source localization | Albanian translations for Osmium, Thunder, & more | 🟢 Ongoing |
 
