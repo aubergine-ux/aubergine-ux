@@ -31,9 +31,7 @@
 | [**Aub Suite**](https://github.com/aubergine-ux/Aub-Suite) | A dark-themed browser utility dashboard | 🟢 Active |
 | [**NYCleanAir**](https://github.com/aubergine-ux/NYCleanAir) | Air quality dashboard (Open-Meteo API + Chart.js) | ✅ Done |
 | [**K-Chat**](https://github.com/aubergine-ux/K-Chat) | Real-time chat app with WebSockets | ✅ Done |
-| [**Nether-Coords**](https://github.com/aubergine-ux/Nether-Coords) | Minecraft Nether coordinate converter | ✅ Done |
 | [**Raven**](https://github.com/aubergine-ux/Raven) | Free Minecraft Server Website Template | ✅ Done |
-| [**Minecraft Server Website**](https://github.com/aubergine-ux/Minecraft-Server-Website) | Free Modern Minecraft Server Website Template | ✅ Done |
 | [**Discord Bot Landing Page**](https://github.com/aubergine-ux/Discord-Bot-Landing-Page) | Free HTML/CSS bot landing template | 🟢 Active |
 | [**Ghast-Clicker**](https://github.com/aubergine-ux/Ghast-Clicker) | An Humanized Autoclicker | 📋 Backlog |
 | [**Aub Maintenance Log**](https://github.com/aubergine-ux/Aub-Maintenance-Log) | Vehicle Maintenance Tracker | 📋 Backlog |
