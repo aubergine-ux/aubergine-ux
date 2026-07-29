@@ -34,7 +34,6 @@
 | [**K-Chat**](https://github.com/aubergine-ux/K-Chat) | Real-time chat app with WebSockets | ✅ Done |
 | [**Raven**](https://github.com/aubergine-ux/Raven) | Free Minecraft Server Website Template | ✅ Done |
 | [**Discord Bot Landing Page**](https://github.com/aubergine-ux/Discord-Bot-Landing-Page) | Free HTML/CSS bot landing template | 📋 Backlog |
-| [**Ghast-Clicker**](https://github.com/aubergine-ux/Ghast-Clicker) | An Humanized Autoclicker | 📋 Backlog |
 | [**Aub Maintenance Log**](https://github.com/aubergine-ux/Aub-Maintenance-Log) | Vehicle Maintenance Tracker | 📋 Backlog |
 | Open-source localization | Albanian translations for Osmium, Thunder, & more | 🟢 Ongoing |
 
