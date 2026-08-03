@@ -11,6 +11,10 @@
 <p align="center">Hey, I'm Ruby (Aubergine-UX) and I do front-end, mostly UX and websites. I care a lot about sites that work well and look good, the kind where everything feels right. I'm always tweaking details until they're exactly how I want them. Currently buried in JavaScript and React, and poking at C++ when I've got time.</p>
 <br>
 
+<p align="center">
+<b>Contact Me</b> — <a href="https://osm.pm/ruby">@ruby on Osmium</a>
+</p>
+
 <hr>
 
 <div align="center">
