@@ -5,6 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=aubergine-ux&color=7700bd" alt="profile views" />
 <img src="https://img.shields.io/badge/Email-mail@armd.one-purple" alt="badge" />
 <img src="https://img.shields.io/badge/Website-aubergineux.com-f47fff" alt="badge" />
+<a href="https://armd.one/tallyglot/"><img src="https://armd.one/tallyglot/badges/overall.svg" alt="Albanian translation progress" /></a>
 </div>
 <br>
 
